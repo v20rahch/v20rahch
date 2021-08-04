@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Chaturvedi
-- 👀 I’m interested in Data science and python coding 
-- 🌱 I’m currently learning machine learning at Dalarna University
+- 🌱 I’m currently a student at Dalarna University,Sweden
 - 📫 I'm reachable at v20rahch@gmail.com
 
 <!---
