@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rahul Chaturvedi
-- 🌱 I’m currently a student at Dalarna University,Sweden
 - 📫 I'm reachable at v20rahch@gmail.com
 
 <!---
